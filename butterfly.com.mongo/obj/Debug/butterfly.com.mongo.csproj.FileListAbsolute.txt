@@ -1,0 +1,5 @@
+C:\Repo\butterfly.com.mongo\butterfly.com.mongo\bin\Debug\butterfly.com.mongo.dll
+C:\Repo\butterfly.com.mongo\butterfly.com.mongo\bin\Debug\butterfly.com.mongo.pdb
+C:\Repo\butterfly.com.mongo\butterfly.com.mongo\obj\Debug\butterfly.com.mongo.dll
+C:\Repo\butterfly.com.mongo\butterfly.com.mongo\obj\Debug\butterfly.com.mongo.pdb
+C:\Repo\butterfly.com.mongo\butterfly.com.mongo\obj\Debug\butterfly.com.mongo.csprojResolveAssemblyReference.cache
